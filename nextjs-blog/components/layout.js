@@ -35,6 +35,7 @@ export default function Layout({ children, home }) {
               height={144}
               width={144}
               alt="写真"
+              
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
